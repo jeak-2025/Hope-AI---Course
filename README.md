@@ -1,2 +1,2 @@
-# Hope-AI---Course
-Master Program in Applied AI, Gen AI &amp; Data Science
+# Hope AI - Course
+Master Program in Applied AI, Gen AI & Data Science
